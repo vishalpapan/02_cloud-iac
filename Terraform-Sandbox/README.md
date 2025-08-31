@@ -1,4 +1,4 @@
-# Terraform Sandbox - Learning Journey
+# Terraform Sandbox
 
 This repository contains 6 practice folders demonstrating different Terraform concepts and AWS infrastructure management.
 
