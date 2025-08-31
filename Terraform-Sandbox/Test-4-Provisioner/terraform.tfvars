@@ -1,0 +1,5 @@
+cidr = "192.168.0.0/16"
+subnet-cidr = "192.168.0.0/24"
+subnet-az = "us-east-1a"
+ec2-ami = "ami-0360c520857e3138f"
+instance_type = "t3a.micro"
